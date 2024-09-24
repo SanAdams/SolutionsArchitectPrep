@@ -1,0 +1,1 @@
+This is a repository meant to be Prep for the Solutions Architect Exam. I'm following along with this guy https://www.youtube.com/watch?v=c3Cn4xYfxJY
